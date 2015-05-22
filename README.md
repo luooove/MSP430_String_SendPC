@@ -1,0 +1,2 @@
+# MSP430_String_SendPC
+这是用来测试msp430F5438A的发送字符串给串口的程序，开发环境为CCS。
